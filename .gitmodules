@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:M-AffanK/mTorrentNexus.git
+[submodule "app"]
+	path = app
+	url = git@github.com:M-AffanK/mTorrent.git
