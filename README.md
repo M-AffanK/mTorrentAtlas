@@ -44,9 +44,9 @@ Flutter Client  ──TCP──►  Coordinator Server  ──TCP──►  Stor
 
 ## Quick Start
 
-- **Coordinator Server** → `backend/`
-- **Storage Nodes** → `backend/`
-- **Mobile Client** → `app/`
+- **Coordinator Server** → [`backend/README.md`](https://github.com/M-AffanK/mTorrentNexus/blob/main/README.md)
+- **Storage Nodes** → [`backend/README.md`](https://github.com/M-AffanK/mTorrentNexus/blob/main/README.md)
+- **Mobile Client** → [`app/README.md`](https://github.com/M-AffanK/mTorrent/blob/main/README.md)
 
 ## Tech Stack
 
